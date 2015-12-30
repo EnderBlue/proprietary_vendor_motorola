@@ -619,24 +619,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib64/egl/libQTapGLES.so:system/vendor/lib64/egl/libQTapGLES.so \
     vendor/motorola/clark/proprietary/vendor/lib/egl/libQTapGLES.so:system/vendor/lib/egl/libQTapGLES.so \
     vendor/motorola/clark/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/liblowi_client.so:system/vendor/lib64/liblowi_client.so \
-    vendor/motorola/clark/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libwifiscanner.so:system/vendor/lib64/libwifiscanner.so \
     vendor/motorola/clark/proprietary/vendor/lib/libwifiscanner.so:system/vendor/lib/libwifiscanner.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/libxtadapter.so:system/vendor/lib64/libxtadapter.so \
-    vendor/motorola/clark/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
-    vendor/motorola/clark/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:system/vendor/lib64/libxtwifi_zpp_adaptor.so \
-    vendor/motorola/clark/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libquipc_ulp_adapter.so:system/vendor/lib64/libquipc_ulp_adapter.so \
     vendor/motorola/clark/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/liblowi_wifihal.so:system/vendor/lib64/liblowi_wifihal.so \
-    vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/motorola/clark/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
-    vendor/motorola/clark/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
-    vendor/motorola/clark/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
-    vendor/motorola/clark/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/clark/proprietary/lib64/libadropbox.so:system/lib64/libadropbox.so \
     vendor/motorola/clark/proprietary/lib/libunshorten.so:system/lib/libunshorten.so \
     vendor/motorola/clark/proprietary/lib/soundfx/libmmieffectswrapper.so:system/lib/soundfx/libmmieffectswrapper.so \
