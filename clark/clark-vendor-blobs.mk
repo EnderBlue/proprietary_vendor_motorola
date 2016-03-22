@@ -260,7 +260,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib/libchromatix_ov5693_video.so:system/vendor/lib/libchromatix_ov5693_video.so \
     vendor/motorola/clark/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/motorola/clark/proprietary/bin/perfd:system/bin/perfd \
-    vendor/motorola/clark/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/clark/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/motorola/clark/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
